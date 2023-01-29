@@ -107,3 +107,6 @@ training, validation and test sets and put under the paths saved in csv files e.
 and "test_path.csv". For basic version experiment, the training, validation and test sets of lymph node dataset can be 
 found in "train_path_LN29.csv", "val_path_LN29.csv", and "test_path_LN29.csv", and those of spleen dataset can be found 
 in "train_path_SP29.csv", "val_path_SP29.csv", and "test_path_SP29.csv" under "predictive_models" folder.
+
+## Acknowlegements
+fnet code is modified from [AllenCellModeling/pytorch_fnet](https://github.com/AllenCellModeling/pytorch_fnet). We thank their contribution for providing the open source software.
