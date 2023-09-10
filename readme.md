@@ -1,5 +1,5 @@
 # Expanding the coverage of spatial proteomics
-Preprint: https://www.biorxiv.org/content/10.1101/2023.01.29.526114v1.abstract
+Preprint: https://www.biorxiv.org/content/10.1101/2023.01.29.526114v2
 
 ## Usage
 Jupyternotebook demo shows how to use our algorithm for choosing a minimal predictive subset of markers that allows the 
