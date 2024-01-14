@@ -1,0 +1,24 @@
+Vimentin
+CD163
+Pan Keratin
+CD116
+PD-LI
+CD31
+CD45
+Lag3
+CD11c
+FoxP3
+CD4
+Ecadherin
+CD68
+CD20
+CD8a
+PD-1
+CD45-RA
+Granzyme B
+Ki67
+T1 Collagen
+CD31
+CD45RO
+HLA-DR
+HistoneH3

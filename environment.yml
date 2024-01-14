@@ -1,0 +1,21 @@
+name: ETCOSP
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python=3.9.1
+  - scikit-learn
+  - scipy
+  - tqdm
+  - pip
+  - pip:
+      - aicsimageio
+      - matplotlib   
+      - networkx
+      - numpy
+      - seaborn
+      - tifffile
+      - torch>=1.9.1
+      

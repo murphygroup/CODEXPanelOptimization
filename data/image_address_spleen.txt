@@ -1,0 +1,8 @@
+https://assets.hubmapconsortium.org/666d5c8292a7ef2e7cddc9fd22b1e0df/ometiff-pyramids/stitched/expressions/reg1_stitched_expressions.ome.tif
+https://assets.hubmapconsortium.org/2c70846a788a7b6900992b4ed310574d/ometiff-pyramids/stitched/expressions/reg1_stitched_expressions.ome.tif
+https://assets.hubmapconsortium.org/3bf7c7b6444c3c3d6dbaf543e85cfc2b/ometiff-pyramids/stitched/expressions/reg1_stitched_expressions.ome.tif
+https://assets.hubmapconsortium.org/79ec9402362b276b9e12c0f596dbac4f/ometiff-pyramids/stitched/expressions/reg1_stitched_expressions.ome.tif
+https://assets.hubmapconsortium.org/29b597eb148281332c8512b1ef38d580/ometiff-pyramids/pipeline_output/expr/reg001_expr.ome.tif
+https://assets.hubmapconsortium.org/260ea057a33405dcf89d5466ea06021a/ometiff-pyramids/pipeline_output/expr/reg001_expr.ome.tif
+https://assets.hubmapconsortium.org/777370c5177adc879eff551714480b84/ometiff-pyramids/pipeline_output/expr/reg001_expr.ome.tif
+https://assets.hubmapconsortium.org/9358adf4674413a0e2ef1a970b66714e/ometiff-pyramids/pipeline_output/expr/reg001_expr.ome.tif

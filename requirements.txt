@@ -1,0 +1,8 @@
+python==3.9.1
+matplotlib==3.7.1
+networkx==3.0
+numpy==1.25.1
+scipy==1.10.0
+tifffile==2023.7.18
+torch==1.9.1+cu111
+scikit-learn==1.0.2
