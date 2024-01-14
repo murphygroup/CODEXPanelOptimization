@@ -8,7 +8,7 @@ wget -i image_address_spleen.txt -P spleen
 To continue downloading CODEX lymph node dataset from HuBMaP data portal to the directory `data/lymph_node`:
 
 ```bash
-wget -i image_address_spleen.txt -P spleen
+wget -i image_address_lymph_node.txt -P lymph_node
 ```
 
 CODEX large intestine dataset and small intestine dataset cannot directly use `wget` command to download. Please download the data from [HuBMAP](https://portal.hubmapconsortium.org/) and put the data under the folder `data/large_intestine` and `data/small_intestine` respectively.
