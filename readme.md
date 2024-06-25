@@ -2,7 +2,7 @@
 
 ### Overview
 This is the repository for the paper "Expanding the coverage of spatial proteomics"
-([Biorxiv](https://www.biorxiv.org/content/10.1101/2023.01.29.526114v2)). In thiswork, we first sought to develop a flexible approach for finding a small subset of markers and using them to predict the full-image expression pattern of the remaining markers, this enlarges the coverage of spatial proteomics. All code and intermediate results are available in this repository.
+([Bioinformatics](https://academic.oup.com/bioinformatics/article/40/2/btae062/7600423)). In thiswork, we first sought to develop a flexible approach for finding a small subset of markers and using them to predict the full-image expression pattern of the remaining markers, this enlarges the coverage of spatial proteomics. All code and intermediate results are available in this repository.
 
 ### System and Hardware Requirements
 Linux-based systems and NVIDIA graphics hardware with CUDA and cuDNN support are required. Our program is tested on Linux CentOS with CUDA 12.1.
